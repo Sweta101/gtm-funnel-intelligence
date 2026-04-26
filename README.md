@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-<img width="900" height="1047" alt="Screenshot 2026-04-25 232859" src="https://github.com/user-attachments/assets/e2e5cb44-0955-4e0c-870f-da888340fd04" />
+<img width="1000" height="1047" alt="Screenshot 2026-04-25 232859" src="https://github.com/user-attachments/assets/e2e5cb44-0955-4e0c-870f-da888340fd04" />
 
 *Executive view of pipeline performance, conversion funnel, and revenue drivers.*
 
